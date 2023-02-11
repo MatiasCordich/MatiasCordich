@@ -6,7 +6,7 @@
 # *<div align="center">Hi! I'm Matias 🧉</div>*  
   
 
-- ✏️ I'm Frontend developer with strong knowledge in Backend 🔐  (currently learning).  
+- ✏️ I'm Frontend developer with strong knowledge in Backend 🔐  (currently learning)  
   
 
 - 📄 I’m looking for my first IT job. I'm available to work, you can see my [CV](https://portfolio2-0-murex.vercel.app/static/media/CV.29bafa3b70202e9512f4.pdf).  
