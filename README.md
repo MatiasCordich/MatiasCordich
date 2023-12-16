@@ -20,4 +20,10 @@
        <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
          <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
        </a>
+   <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
+         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
+       </a>
+   <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
+         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
+       </a>
 </div>
