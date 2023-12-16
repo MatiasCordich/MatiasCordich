@@ -27,3 +27,9 @@
          <img src="https://iili.io/Juj0HTF.png" alt="portfolio link logo" width="250px"/>
        </a>
 </div>
+
+###
+
+<div style="display: flex;" align=center>
+   <img src="https://streak-stats.demolab.com?user=MatiasCordich&theme=dark&hide_border=true&card_width=432&background=040D12&fire=5C8374&ring=183D3D&currStreakLabel=93B1A6&sideNums=93B1A6&dates=EBEBEB&currStreakNum=93B1A6&sideLabels=93B1A6&stroke=93B1A6" alt="GitHub Streak" />
+</div>
