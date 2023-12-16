@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://iili.io/Juj51jf.png" alt="header links page"  />
-  <ul style="display:flex">
+  <ul style="display: flex;">
      <li style="list-style-type:none">
        <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
          <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
