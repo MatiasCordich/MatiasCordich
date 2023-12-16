@@ -12,23 +12,12 @@
 
 <div align="center">
   <img src="https://iili.io/Juj51jf.png" alt="header links page"  />
-  <ul dir="auto">
-     <li style="list-style-type:none">
-       <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
-       </a>
-     </li>
-    <li>
-       <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
-       </a>
-     </li>
-    <li>
-       <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
-       </a>
-     </li>
-  </ul>
 </div>
 
 ###
+
+ <div style="display: flex;" align="center">
+       <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
+         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
+       </a>
+</div>
