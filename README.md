@@ -32,4 +32,5 @@
 
 <div style="display: flex;" align=center>
    <img src="https://streak-stats.demolab.com?user=MatiasCordich&theme=dark&hide_border=true&card_width=432&background=040D12&fire=5C8374&ring=183D3D&currStreakLabel=93B1A6&sideNums=93B1A6&dates=EBEBEB&currStreakNum=93B1A6&sideLabels=93B1A6&stroke=93B1A6" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasCordich&show_icons=true&bg_color=040D12E&text_color=93B1A6&icon_color=93B1A6&title_color=93B1A6&hide_border=true&count_private=true" width=408>
 </div>
