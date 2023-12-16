@@ -15,17 +15,17 @@
   <ul style="display:flex">
      <li>
        <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/Juj51jf.png](https://iili.io/JujYosR.png" alt="linkeding link logo"/>
+         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
        </a>
      </li>
     <li>
        <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/Juj51jf.png](https://iili.io/JujYosR.png" alt="linkeding link logo"/>
+         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
        </a>
      </li>
     <li>
        <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/Juj51jf.png](https://iili.io/JujYosR.png" alt="linkeding link logo"/>
+         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo"/>
        </a>
      </li>
   </ul>
