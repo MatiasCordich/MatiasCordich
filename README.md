@@ -21,9 +21,9 @@
          <img src="https://iili.io/JujYosR.png" alt="linkedin link logo" width="300px"/>
        </a>
    <a href="mailto:m.scordich@gmail.com" target="_blank">
-         <img src="https://iili.io/Jujl8rl.png" alt="inbox link logo" width="300px"/>
+         <img src="https://iili.io/Jujlyp1.png" alt="inbox link logo" width="300px"/>
        </a>
    <a href="/" target="_blank">
-         <img src="https://iili.io/JujlpkP.png" alt="portfolio link logo" width="300px"/>
+         <img src="https://iili.io/Juj0HTF.png" alt="portfolio link logo" width="300px"/>
        </a>
 </div>
