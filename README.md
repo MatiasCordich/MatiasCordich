@@ -18,12 +18,12 @@
 
  <div style="display: flex;" align="center">
        <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo" width="300px"/>
+         <img src="https://iili.io/JujYosR.png" alt="linkedin link logo" width="300px"/>
        </a>
-   <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo" width="300px"/>
+   <a href="mailto:m.scordich@gmail.com" target="_blank">
+         <img src="https://iili.io/Jujl8rl.png" alt="inbox link logo" width="300px"/>
        </a>
-   <a href="https://www.linkedin.com/in/matiassiocordich/" target="_blank">
-         <img src="https://iili.io/JujYosR.png" alt="linkeding link logo" width="300px"/>
+   <a href="/" target="_blank">
+         <img src="https://iili.io/JujlpkP.png" alt="portfolio link logo" width="300px"/>
        </a>
 </div>
